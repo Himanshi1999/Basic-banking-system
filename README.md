@@ -1,7 +1,12 @@
 # Basic-banking-system
-This is an internship task of developing basic banking system website from The Sparks Foundation.
+## GRIP Internship Project at The Sparks Foundation
+This is task1(developing basic banking system dynamic website) from The Sparks Foundation.
 The site includes following modules:
 1. View customer database
 2. View single customer details
 3. View transaction history
 4. Transfer money
+
+FRONTEND : HTML, CSS, JS
+BACKEND : PHP
+DATABASE : Mysql
