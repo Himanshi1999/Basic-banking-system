@@ -7,6 +7,6 @@ The site includes following modules:
 3. View transaction history
 4. Transfer money
 
-FRONTEND : HTML, CSS, JS
-BACKEND : PHP
-DATABASE : Mysql
+FRONTEND : HTML, CSS, JS<br/> 
+BACKEND : PHP<br/>
+DATABASE : Mysql<br/>
